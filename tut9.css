@@ -1,0 +1,19 @@
+button:hover{
+    background-color: black;
+    color: white;
+}
+#login:hover{
+    background-color: red;
+    color: white;
+}
+p:hover{
+    text-decoration: underline;
+    color: red;
+
+}
+h2:hover{
+    background-color: yellow;
+    text-decoration: dotted;
+    color: red;
+    text-align: right;
+}

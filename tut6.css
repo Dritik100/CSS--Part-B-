@@ -1,0 +1,7 @@
+P+h2{
+    text-decoration: underline;
+}
+.upvote +button{
+    background-color:cornflowerblue ;
+    color: black;
+}

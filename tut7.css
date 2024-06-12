@@ -1,0 +1,14 @@
+div > input{
+    background-color: darkgoldenrod;
+}
+span> button{
+    background-color: aqua;
+}
+p>a{
+    background-color: beige;
+    color: brown;
+}
+nav>ul{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,12 @@
+h1::first-letter{
+    color: green;
+}
+
+p::first-line{
+    color: brown;
+    text-decoration: dashed;
+    font-weight: bold;
+}
+p::selection{
+    background-color: rgb(56, 214, 56);
+}
